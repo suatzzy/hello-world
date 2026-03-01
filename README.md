@@ -1,6 +1,4 @@
-# hello-world
-just a demo repository
-i'm a pervert
+```mermaid
 flowchart TD
     subgraph cnn_cal ["cnn_cal"]
         subgraph MAC_Module ["MAC"]
@@ -34,3 +32,4 @@ flowchart TD
     style pool fill:#D32F2F,color:#fff
     style fc_Module fill:#673AB7,stroke:#333,stroke-width:2px,color:#fff
     style L1_cache fill:#DCE775,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5,color:#000
+···
